@@ -1,0 +1,2 @@
+# Cloudflare Pages SPA fallback routing (Workers Static Assets uses not_found_handling in wrangler.jsonc)
+/* /index.html 200

@@ -1,0 +1,6 @@
+{
+  "name": "FLIVIO — Modern Fashion Store",
+  "description": "FLIVIO (flivio.store) — Minimalist editorial fashion e-commerce storefront and store management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
